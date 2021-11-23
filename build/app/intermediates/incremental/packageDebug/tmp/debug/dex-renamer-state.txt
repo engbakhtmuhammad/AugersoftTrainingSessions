@@ -1,9 +1,9 @@
-#Thu Oct 28 21:09:45 PKT 2021
-base.2=/Users/bakht/AndroidStudioProjects/Augersoft/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
+#Fri Nov 12 21:30:39 PKT 2021
+base.2=/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
 path.2=classes3.dex
-base.1=/Users/bakht/AndroidStudioProjects/Augersoft/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
+base.1=/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
 path.1=classes2.dex
-base.0=/Users/bakht/AndroidStudioProjects/Augersoft/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+base.0=/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

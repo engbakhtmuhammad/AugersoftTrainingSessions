@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bakht/AndroidStudioProjects/Augersoft/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
+            "outputFile": "/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml",
             "map": [
                 {
                     "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/values-be/values-be.xml",

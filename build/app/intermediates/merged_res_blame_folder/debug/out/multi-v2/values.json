@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bakht/AndroidStudioProjects/Augersoft/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/values/values.xml",
@@ -23,24 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bakht/AndroidStudioProjects/Augersoft/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,713",
-                        "endColumns": "143,81,103,108,119,98,75",
-                        "endOffsets": "194,276,380,489,609,708,784"
-                    },
-                    "to": {
-                        "startLines": "104,105,106,107,108,109,110",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "7730,7874,7956,8060,8169,8289,8388",
-                        "endColumns": "143,81,103,108,119,98,75",
-                        "endOffsets": "7869,7951,8055,8164,8284,8383,8459"
-                    }
-                },
-                {
-                    "source": "/Users/bakht/AndroidStudioProjects/Augersoft/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",
@@ -56,6 +39,23 @@
                         "endLines": "116,119",
                         "endColumns": "12,12",
                         "endOffsets": "8827,8996"
+                    }
+                },
+                {
+                    "source": "/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,713",
+                        "endColumns": "143,81,103,108,119,98,75",
+                        "endOffsets": "194,276,380,489,609,708,784"
+                    },
+                    "to": {
+                        "startLines": "104,105,106,107,108,109,110",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "7730,7874,7956,8060,8169,8289,8388",
+                        "endColumns": "143,81,103,108,119,98,75",
+                        "endOffsets": "7869,7951,8055,8164,8284,8383,8459"
                     }
                 },
                 {

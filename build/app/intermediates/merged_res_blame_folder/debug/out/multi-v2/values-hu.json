@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/bakht/AndroidStudioProjects/Augersoft/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/e31537fb3ca3accaea0d4d9ddb9631cc/jetified-play-services-basement-17.0.0/res/values-hu/values.xml",
