@@ -36,7 +36,15 @@ dependencies:
   flutter_search_bar: ^2.1.0
   intl:
 
+  # Models
+  json_annotation: ^4.4.0
+
+  # API
+  http: any
+
 dev_dependencies:
+  build_runner:
+  json_serializable: 
   flutter_test:
     sdk: flutter
 

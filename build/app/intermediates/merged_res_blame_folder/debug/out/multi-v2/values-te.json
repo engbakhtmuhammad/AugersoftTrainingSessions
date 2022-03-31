@@ -4,7 +4,7 @@
             "outputFile": "/Users/bakht/AndroidStudioProjects/AugersoftTrainingSessions/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/e31537fb3ca3accaea0d4d9ddb9631cc/jetified-play-services-basement-17.0.0/res/values-te/values.xml",
+                    "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/31715385bafd62549af76de3e227190b/jetified-play-services-basement-17.0.0/res/values-te/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/ae66d64a96039d4c8dca038f4348340f/jetified-play-services-base-17.0.0/res/values-te/values.xml",
+                    "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/2bf5e91b570e18e57e33e59bafc2db5b/jetified-play-services-base-17.0.0/res/values-te/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/3c8fd1bfddb99a7a7e21faa1397acdb4/core-1.1.0/res/values-te/values-te.xml",
+                    "source": "/Users/bakht/.gradle/caches/transforms-2/files-2.1/14b93615368c2249f1830e26ca064ab5/core-1.6.0/res/values-te/values-te.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
